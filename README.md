@@ -3,3 +3,4 @@ Just my first repo.
 Yeah!!
 
 next of me.commit1.
+next of me.commit2.
